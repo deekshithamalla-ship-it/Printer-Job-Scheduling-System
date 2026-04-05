@@ -14,9 +14,9 @@ for multiple print jobs based on printer speed.
 
 ## How to Run
 1. Compile:
-   javac Project1.java
+   javac Project.java
 2. Run:
-   java Project1
+   java Project
 
 ## Sample Output
 ![Output](images/output.png)
