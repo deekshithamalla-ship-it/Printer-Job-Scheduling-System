@@ -19,7 +19,7 @@ for multiple print jobs based on printer speed.
    java Project
 
 ## Sample Output
-![Output](images/output.png)
+![Output](output.png)
 
 ## Concepts Used
 - Arrays
