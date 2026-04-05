@@ -1,5 +1,5 @@
 import java.util.*;
-public class project1 {
+public class project {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.print("enter the number of jobs");
